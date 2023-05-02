@@ -5,8 +5,7 @@ Le but de ce projet est de fournir de la documentation pour s'initier aux joies 
 
 Cette documentation se veut:
 - un premier pas pour découvrir l'administration système
-- une porte d'entrée pour se former à l'administration système
-et pour ceux qui connaissence déjà
+- une porte d'entrée pour se former à l'administration système et pour ceux qui connaissent déjà
 - un aide mémoire pour retrouver des informations relatives à l'installation, la configuration d'un service ou d'une application
 
 ## Objectif
